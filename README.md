@@ -25,7 +25,7 @@
 ![docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
 ![nginx](https://img.shields.io/badge/nginx-333?style=for-the-badge&logo=nginx&logoColor=white) 
 ![rabbitmq](https://img.shields.io/badge/rabbitmq-333?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![authentik](https://img.shields.io/badge/keycloak-333?style=for-the-badge&logo=authentik&logoColor=white)
+![authentik](https://img.shields.io/badge/Authentik-333?style=for-the-badge&logo=authentik&logoColor=white)
 ![bash](https://img.shields.io/badge/bash-333?style=for-the-badge&logo=bash&logoColor=white) 
 ![github actions](https://img.shields.io/badge/github%20actions-333?style=for-the-badge&logo=githubactions&logoColor=white)
 ![figma](https://img.shields.io/badge/figma-333?style=for-the-badge&logo=figma&logoColor=white) 
