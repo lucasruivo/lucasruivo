@@ -21,6 +21,7 @@
 ![mongodb](https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![apache cassandra](https://img.shields.io/badge/apache%20cassandra-333?style=for-the-badge&logo=apachecassandra&logoColor=white)
 ![neo4j](https://img.shields.io/badge/neo4j-333?style=for-the-badge&logo=neo4j&logoColor=white) 
+![opencv](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 ![grafana](https://img.shields.io/badge/grafana-333?style=for-the-badge&logo=grafana&logoColor=white) 
 ![docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
 ![nginx](https://img.shields.io/badge/nginx-333?style=for-the-badge&logo=nginx&logoColor=white) 
@@ -47,6 +48,3 @@
 ## Connect with me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucascarvalhoruivo1@gmail.com) 
-
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11&height=100&section=footer)
